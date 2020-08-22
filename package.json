@@ -1,0 +1,10 @@
+{
+  "name": "Indentured-Exploration-Bot",
+  "version": "0.0.1",
+  "description": "A helper bot for the Indentured Exploration Campaign",
+  "main": "bot.js",
+  "author": "LighrningPenPen",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
